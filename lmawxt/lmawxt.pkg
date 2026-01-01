@@ -1,4 +1,5 @@
-D 'DEA': Data envelopment analysis
+D 'lmawxt': Panel Data Autocorrelation Wooldridge Test Use lmawxt With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F lmawxt.ado
+F lmawxt.dlg
+F lmawxt.sthlp
