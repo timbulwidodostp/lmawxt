@@ -1,6 +1,8 @@
 # lmawxt
 Panel Data Autocorrelation Wooldridge Test Use lmawxt With STATA 19
 
+https://www.youtube.com/watch?v=MAdEtvJg5r4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
